@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.App{
+  display: grid;
+  place-content: center;
+  height: 100vh;
+  background-color: bisque;
+}
+
+form{
+  background-color: tomato;
+  padding: 10px 30px;
+  width: 300px;
+}
+
+h1{
+  color: rgb(247, 241, 240);
+  margin-bottom: 15px;
+}
